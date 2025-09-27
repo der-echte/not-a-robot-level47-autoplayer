@@ -1,4 +1,4 @@
-# Neal.fun Level 47 Autoplayer
+# Neal.fun - I'm Not a Robot Level 47 Autoplayer
 
 A Python script that automatically plays [**Level 47 ("I'm not a Robot")**](https://neal.fun/not-a-robot) from [Neal.fun](https://neal.fun).
 
@@ -44,8 +44,8 @@ This is **not an official tool** and is **not meant for cheating** in competitiv
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/der-echte/neal.fun-level47-autoplayer.git
-   cd neal.fun-level47-autoplayer
+   git clone https://github.com/der-echte/not-a-robot-level47-autoplayer.git
+   cd not-a-robot-level47-autoplayer
    ```
 2. Install dependencies:
    ```bash
