@@ -1,6 +1,6 @@
 # Neal.fun Level 47 Autoplayer
 
-A Python script that automatically plays **Level 47 ("I'm not a Robot")** from [Neal.fun](https://neal.fun).
+A Python script that automatically plays [**Level 47 ("I'm not a Robot")**](https://neal.fun/not-a-robot) from [Neal.fun](https://neal.fun).
 
 The script detects when blocks reach the bottom of each lane and presses the corresponding arrow key at the right time.
 
@@ -44,8 +44,8 @@ This is **not an official tool** and is **not meant for cheating** in competitiv
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_folder>
+   git clone https://github.com/der-echte/neal.fun-level47-autoplayer.git
+   cd neal.fun-level47-autoplayer
    ```
 2. Install dependencies:
    ```bash
@@ -55,11 +55,11 @@ This is **not an official tool** and is **not meant for cheating** in competitiv
 ---
 
 ## Usage
-1. Open **"I'm not a Robot – Level 47"** in your browser.  
-2. Ensure the game window is positioned correctly (the script relies on fixed screen coordinates).  
+1. Open [**"I'm not a Robot – Level 47"**](neal.fun-level47-autoplayer) in your browser.  
+2. Ensure the game window is in fullscreen (the script relies on fixed screen coordinates).  
 3. Run the script:
    ```bash
-   python autoplay.py
+   python main.py
    ```
 4. A short countdown will begin, after which the script will start automatically.  
 5. Press `CTRL+C` in the terminal to stop the script at any time.
